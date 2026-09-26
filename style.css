@@ -36,6 +36,10 @@
     margin: 0.5em 0 1em;
 }
 
+.cat-breed:hover {
+    transform: scale(1.05);
+}
+
 @media (max-width: 768px) {
     .cat-container {
         flex-direction: column;
